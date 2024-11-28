@@ -1,0 +1,8 @@
+name: individual2
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - pandas=2.2.2
+  - python=3.11
+prefix: /Users/jessiezhang/miniforge3/envs/individual2
